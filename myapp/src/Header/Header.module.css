@@ -1,0 +1,26 @@
+.topbar {
+  background-color: green;
+  color: white;
+}
+
+.topbar ul li {
+  display: inline;
+  padding-right: 40px;
+}
+
+.topbar ul li a {
+  color: white;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.topbar button {
+  float: right;
+  background-color: rgb(243, 215, 144);
+  border: none;
+  height: 40px;
+  font-weight: 500;
+  font-size: 14px;
+}
